@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative '../src/231_Power_of_Two'
+require_relative '../src/231_power_of_two'
 
 describe '#is_power_of_two?' do
   context 'with input >= 2' do
